@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Shal2000
-- 👀 I’m interested in programmin language 
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Shal Yadanar Tun
 - 📫 How to reach me shalyatanartun@gmail.com
 
 <!---
